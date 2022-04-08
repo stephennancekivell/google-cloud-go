@@ -1,5 +1,12 @@
 # Changes
 
+## [1.6.0](https://github.com/googleapis/google-cloud-go/compare/securitycenter/v1.5.0...securitycenter/v1.6.0) (2022-04-08)
+
+
+### Features
+
+* **securitycenter:** Add iam_binding field to findings attributes. It represents particular IAM bindings, which captures a member's role addition, removal, or state ([bb5da6b](https://github.com/googleapis/google-cloud-go/commit/bb5da6b3c34079a01d18b766b67f626cff18d849))
+
 ## [1.5.0](https://github.com/googleapis/google-cloud-go/compare/securitycenter/v1.4.0...securitycenter/v1.5.0) (2022-03-14)
 
 
